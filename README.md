@@ -1,16 +1,23 @@
-### Hi there 👋
+# ✨AFRICA AULAR✨
 
-<!--
-**AFRIAULAR/AFRIAULAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí🙋🏻‍♀️
+¡Hola! Soy África Aular, una programadora front-end apasionada por crear experiencias web hermosas y funcionales. Tengo experiencia en [HTML/CSS, JAVASCRIPT, REACT, NODEJs, UX/UI] y disfruto trabajando en proyectos desafiantes que hacen uso de estas tecnologías.
 
-Here are some ideas to get you started:
+## Habilidades👩🏻‍💻
+- HTML5
+- CSS3 / Sass
+- JavaScript / ES6
+- GIT/ GITHUB
+- SCRUM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados💻
+- https://afriaular.github.io/memeando/
+- https://afriaular.github.io/TP_AhorrADAs/
+- https://afriaular.github.io/passwordGenerator/
+
+## Contacto⌨
+- LinkedIn: https://www.linkedin.com/in/africaaular/
+- Correo electrónico: aularafrica@gmail.com
+- Portafolio: https://afriaular.github.io/PORTAFOLIO-23/
+
+¡Gracias por visitar mi perfil de GitHub!💜
