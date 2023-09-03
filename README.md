@@ -1,7 +1,7 @@
 # ✨AFRICA AULAR✨
 
 ## Sobre mí🙋🏻‍♀️
-¡Hola! Soy África Aular, una programadora front-end apasionada por crear experiencias web hermosas y funcionales. Tengo experiencia en [HTML/CSS, JAVASCRIPT, REACT, NODEJs, UX/UI] y disfruto trabajando en proyectos desafiantes que hacen uso de estas tecnologías.
+¡Hola! Soy África Aular, una programadora front-end apasionada por crear experiencias web hermosas y funcionales. Tengo experiencia en HTML/CSS, JAVASCRIPT, REACT, NODEJs, UX/UI y disfruto trabajando en proyectos desafiantes que hacen uso de estas tecnologías.
 
 ## Habilidades👩🏻‍💻
 - HTML5
