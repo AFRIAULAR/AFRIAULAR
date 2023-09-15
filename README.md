@@ -1,23 +1,24 @@
 # ✨AFRICA AULAR✨
 
-## Sobre mí🙋🏻‍♀️
-¡Hola! Soy África Aular, una programadora front-end apasionada por crear experiencias web hermosas y funcionales. Tengo experiencia en HTML/CSS, JAVASCRIPT, REACT, NODEJs, UX/UI y disfruto trabajando en proyectos desafiantes que hacen uso de estas tecnologías.
+## About Me🙋🏻‍♀️
+Hello! I'm África Aular, a passionate front-end developer dedicated to crafting beautiful and functional web experiences. I have expertise in HTML/CSS, JAVASCRIPT, REACT, NODE.js, UX/UI, and thrive on challenging projects that leverage these technologies.
 
-## Habilidades👩🏻‍💻
+## Skills👩🏻‍💻
 - HTML5
 - CSS3 / Sass
 - JavaScript / ES6
 - GIT/ GITHUB
 - SCRUM
 
-## Proyectos Destacados💻
+## Highlighted Projects 💻
 - https://afriaular.github.io/memeando/
 - https://afriaular.github.io/TP_AhorrADAs/
 - https://afriaular.github.io/passwordGenerator/
 
-## Contacto⌨
+## Contact Me⌨
 - LinkedIn: https://www.linkedin.com/in/africaaular/
-- Correo electrónico: aularafrica@gmail.com
-- Portafolio: https://master--celadon-starlight-f3f9a4.netlify.app/)https://master--celadon-starlight-f3f9a4.netlify.app/
+- Email: aularafrica@gmail.com
+- Portfolio: https://master--celadon-starlight-f3f9a4.netlify.app/)https://master--celadon-starlight-f3f9a4.netlify.app/
 
-¡Gracias por visitar mi perfil de GitHub!💜
+Thank you for visiting my GitHub profile! 💜"
+
