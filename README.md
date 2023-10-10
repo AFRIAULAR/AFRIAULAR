@@ -18,7 +18,6 @@ Hello! I'm África Aular, a passionate front-end developer dedicated to crafting
 ## Contact Me⌨
 - LinkedIn: https://www.linkedin.com/in/africaaular/
 - Email: aularafrica@gmail.com
-- Portfolio: https://master--celadon-starlight-f3f9a4.netlify.app/)https://master--celadon-starlight-f3f9a4.netlify.app/
-
+- Portfolio: https://master--celadon-starlight-f3f9a4.netlify.app/
 Thank you for visiting my GitHub profile! 💜"
 
