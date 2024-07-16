@@ -4,11 +4,12 @@
 Hello! I'm África Aular, a passionate front-end developer dedicated to crafting beautiful and functional web experiences. I have expertise in HTML/CSS, JAVASCRIPT, REACT, NODE.js, UX/UI, and thrive on challenging projects that leverage these technologies.
 
 ## Skills👩🏻‍💻
-- HTML5
-- CSS3 / Sass
 - JavaScript / ES6
+- React
+- Vue
 - GIT/ GITHUB
 - SCRUM
+- SQL
 
 ## Highlighted Projects 💻
 - https://afriaular.github.io/memeando/
@@ -18,6 +19,7 @@ Hello! I'm África Aular, a passionate front-end developer dedicated to crafting
 ## Contact Me⌨
 - LinkedIn: https://www.linkedin.com/in/africaaular/
 - Email: aularafrica@gmail.com
-- Portfolio: https://master--celadon-starlight-f3f9a4.netlify.app/
-Thank you for visiting my GitHub profile! 💜"
+- Portfolio: https://github.com/AFRIAULAR/portfolio
+  
+## Thank you for visiting my GitHub profile! 💜"
 
