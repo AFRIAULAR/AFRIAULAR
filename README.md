@@ -7,12 +7,14 @@ Hello! I'm África Aular, a passionate front-end developer dedicated to crafting
 - JavaScript / ES6
 - React
 - Vue
+- NodeJs
 - GIT/ GITHUB
 - SCRUM
 - SQL
+- Figma
 
 ## Highlighted Projects 💻
-- https://afriaular.github.io/memeando/
+- https://github.com/AFRIAULAR/supermarket_db_project
 - https://afriaular.github.io/TP_AhorrADAs/
 - https://afriaular.github.io/passwordGenerator/
 
